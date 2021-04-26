@@ -1,12 +1,12 @@
 {
   "name": "generate-quote",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "type": "module",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasbirrajrana/Inspirational-quote.git"
+    "url": "git+https://github.com/jasbirrajrana/generate-quote"
   },
   "scripts": {
     "start": "node src/index.js"
@@ -21,11 +21,10 @@
   "author": "Jasbir Rajrana <jasbirrajrana6699@gmail.com>(https://jasbirrajrana.live/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jasbirrajrana/Inspirational-quote/issues"
+    "url": "https://github.com/jasbirrajrana/generate-quote/issues"
   },
-  "homepage": "https://jasbirrajrana.github.io/Inspirational-quote/",
+  "homepage": "https://github.com/jasbirrajrana/generate-quote/",
   "directories": {
-    "example": "examples",
     "data": "data"
   }
 }
