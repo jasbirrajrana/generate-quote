@@ -1,4 +1,4 @@
-import qoutesArray from "../data/qoutes.js";
+import qoutesArray from "./data/qoutes.js";
 
 const getRandomInt = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);

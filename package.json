@@ -4,11 +4,28 @@
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "type": "module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasbirrajrana/Inspirational-quote.git"
+  },
   "scripts": {
     "start": "node src/index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {}
+  "keywords": [
+    "motivation",
+    "inspiration",
+    "quotes",
+    "captions",
+    "daily"
+  ],
+  "author": "Jasbir Rajrana <jasbirrajrana6699@gmail.com>(https://jasbirrajrana.live/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasbirrajrana/Inspirational-quote/issues"
+  },
+  "homepage": "https://jasbirrajrana.github.io/Inspirational-quote/",
+  "directories": {
+    "example": "examples",
+    "data": "data"
+  }
 }
