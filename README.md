@@ -40,9 +40,7 @@ $ npm install generate-quote
 ```
 
 ```js
-const {getQuote} = require('
-generate-quote')
-
+const { getQuote } = require("generate-quote");
 
 console.log(getQuote());
 ```
