@@ -1491,6 +1491,16 @@ const qoutesArray = [
       "I learned not to worry so much about the outcome, but to concentrate on the step I was on and to try to do it as perfectly as I could when I was doing it.",
     from: "Steve Wozniak, Co-Founder of Apple",
   },
+  {
+    text:
+      "Far better to live your own path imperfectly than to live another's perfectly.",
+    from:"Bhagvad Gita"
+  },
+  {
+    text:
+      "Proud on yourself! God gives his toughtest battles to his strongest soldiers.",
+    from:"unknown"
+  }
 ];
 
 export default qoutesArray;
