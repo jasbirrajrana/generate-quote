@@ -1,0 +1,14 @@
+{
+  "name": "inspo-qoutes",
+  "version": "1.0.0",
+  "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
