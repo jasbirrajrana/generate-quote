@@ -1,6 +1,6 @@
 {
-  "name": "inspo-qoutes",
-  "version": "1.0.0",
+  "name": "generate-quote",
+  "version": "1.0.1",
   "description": "A simple NPM Package which returns Inspirational Quotes. Get your daily quote and stay motivated!",
   "type": "module",
   "main": "index.js",
