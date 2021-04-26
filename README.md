@@ -49,7 +49,7 @@ console.log(getQuote());
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=&message=jasbirrajrana6699@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/jasbirrajrana)
 
-<!-- > Checkout [this](https://github.com/vinitshahdeo/generate-quote/network/dependents?package_id=UGFja2FnZS0yMTk1NjcyNDQ%3D) to view works by other developers who've used this module. -->
+> Checkout [this](https://github.com/jasbirrajrana/generate-quote/network/dependents?package_id=UGFja2FnZS0yMTYyMzg2Mjcx) to view works by other developers who've used this module.
 
 ## Want to contribute?
 
