@@ -59,9 +59,9 @@ console.log(getQuote());
 
 **[ISSUE [#2](https://github.com/jasbirrajrana/generate-quote/issues/2)]** : **[Add More Inspirational Quotes](https://github.com/jasbirrajrana/generate-quote/issues/2)** (Recommended for beginners)
 
-**MIT &copy; [Vinit Shahdeo](https://github.com/jasbirrajrana/generate-quote/blob/master/LICENSE)**
+**MIT &copy; [Jasbir Rajrana](https://github.com/jasbirrajrana/generate-quote/blob/master/LICENSE)**
 
-[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~jasbirrajrana) [![Jasbir Rajrana](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.npmjs.com/~jasbirrajrana) [![Jasbir Rajrana](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://github.com/vinitshahdeo/inspirational-quotes)
+[![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.npmjs.com/~jasbirrajrana) [![Jasbir Rajrana](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://www.npmjs.com/~jasbirrajrana) [![Jasbir Rajrana](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://www.linkedin.com/in/jasbirrajrana/)
 
 ```
 
@@ -77,7 +77,7 @@ console.log(getQuote());
 ```
 
 Let's **[get connected](https://www.linkedin.com/in/jasbirrajrana/)** if we share the same views!
-Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/vinitshahdeo/)**.
+Invite me to connect on **[LinkedIn](https://www.linkedin.com/in/jasbirrajrana/)**.
 
 [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@jasbirrajrana_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/jasbirrajrana_/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@jasbirrajrana&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/jasbirrajrana/)
 
