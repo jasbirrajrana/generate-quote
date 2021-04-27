@@ -1494,13 +1494,23 @@ const qoutesArray = [
   {
     text:
       "Far better to live your own path imperfectly than to live another's perfectly.",
-    from:"Bhagvad Gita"
+    from: "Bhagvad Gita",
   },
   {
     text:
       "Proud on yourself! God gives his toughtest battles to his strongest soldiers.",
-    from:"unknown"
-  }
+    from: "unknown",
+  },
+  {
+    text:
+      "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+    from: "Steve Jobs",
+  },
+  {
+    text:
+      "The people who are crazy enough to think they can change the world are the ones who do.",
+    from: "Steve Jobs",
+  },
 ];
 
 export default qoutesArray;
